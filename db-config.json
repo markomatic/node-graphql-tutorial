@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "postgres",
+    "database": "node-graphql-tutorial",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
